@@ -1,3 +1,4 @@
+[返回到基地页面](https://quickvideosharing.github.io/note/)                     
 此页面最近一次更新时间：2020.04.16        
 
 * 本源码生成的固件禁止使用在任何非法、商业用途！——Lienol的源码声明                     
