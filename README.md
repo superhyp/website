@@ -15,7 +15,7 @@
 * [工具](https://passwallopenwrt.github.io/tool/)               
 * [周边教程](./others.md)                   
 * [机场](./air.md)              
-请有恩山论坛账号的大佬们给留言顶贴谢谢：[帖子](https://www.right.com.cn/forum/thread-3188574-1-1.html)                        
+请有恩山论坛账号的大佬们给留言顶帖谢谢：[帖子](https://www.right.com.cn/forum/thread-3188574-1-1.html)                        
 
     
         
